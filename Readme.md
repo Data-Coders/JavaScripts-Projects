@@ -2,7 +2,7 @@ Project Name
 
      This is JavaScript Learning Material for Beginners and anyone Can Learn JavaScript By Following This Repository and Get their Js Matered By this Repository.
 
-     If you Want a Detailed Course and on JavaScript then Get on My Blog Course Which is Available on this Link :- [Aman Ojha](https://amanojha.codes) and this is also available on My Dev.to Profile Whoses Link is Given Here [Dev.to/coderaman07](https://dev.to/coderaman07)
+     If you Want a Detailed Course and on JavaScript then Get on My Blog Course Which is Available on this Link :- [Aman Ojha](https://amanojha.codes) and this is also available on My Dev.to Profile Whoses Link is Given Here [coderaman07](https://dev.to/coderaman07)
 
 Installation and Running
 
